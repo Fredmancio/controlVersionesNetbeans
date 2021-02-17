@@ -15,7 +15,7 @@ public class ControlVersionesGit {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Vamos a controlar las versiones con GitHub");
+        System.out.println("Vamos a cambiar el código con GitHub");
     }
     
 }
